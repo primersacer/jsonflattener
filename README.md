@@ -9,8 +9,6 @@ structure.
 ## 2. Contents
 JsonFlattener.java - The java program for JSON flattening
 
-README             - This file
-
 ValidJson/         - A directory containing a set of valid
                      JSON files used for testing
                      
