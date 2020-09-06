@@ -19,6 +19,7 @@ InvalidJson/       - A directory containing a set of invalid
 
 ## 3. Tool Versions
 Java - openjdk 14.0.2 2020-07-14
+
 Gson - gson-2.8.6.jar
 
 ## 4. Setup
